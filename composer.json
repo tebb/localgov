@@ -20,7 +20,7 @@
         "localgovdrupal/localgov_alert_banner": "dev-master",
         "localgovdrupal/localgov_core": "dev-master",
         "localgovdrupal/localgov_campaigns": "dev-master",
-        "localgovdrupal/localgov_directories": "dev-master",
+        "localgovdrupal/localgov_directories": "dev-feature/4-venue",
         "localgovdrupal/localgov_demo": "dev-master",
         "localgovdrupal/localgov_guides": "dev-master",
         "localgovdrupal/localgov_paragraphs": "dev-master",
