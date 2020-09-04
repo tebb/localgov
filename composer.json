@@ -18,7 +18,7 @@
         "drupal/simple_sitemap": "^3.7",
         "drush/drush": "~9",
         "localgovdrupal/localgov_alert_banner": "dev-master",
-        "localgovdrupal/localgov_core": "dev-feature/homepage",
+        "localgovdrupal/localgov_core": "dev-feature/homepage-paragraphs-display-modes",
         "localgovdrupal/localgov_campaigns": "dev-feature/homepage",
         "localgovdrupal/localgov_services": "dev-feature/homepage",
         "localgovdrupal/localgov_menu_link_group": "dev-master",
